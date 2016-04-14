@@ -1,0 +1,18 @@
+{
+  "name": "nightshift-demo",
+  "description": "A demo of NightShift",
+  "version": "0.1.0",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nightshiftjs/nightshift-demo.git"
+  },
+  "engines": {
+    "node": "0.12.2"
+  },
+  "dependencies": {
+    "nightshift-core": "0.1.0",
+    "nightshift-dependency-injection": "0.1.0"
+  },
+  "devDependencies": {}
+}
