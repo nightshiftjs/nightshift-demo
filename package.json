@@ -3,6 +3,7 @@
   "description": "A demo of NightShift",
   "version": "0.1.0",
   "main": "src/index.js",
+  "keywords": ["demo", "framework", "nightshift"],
   "repository": {
     "type": "git",
     "url": "https://github.com/nightshiftjs/nightshift-demo.git"
