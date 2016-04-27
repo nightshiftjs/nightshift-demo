@@ -4,7 +4,7 @@ Discover what you can do with [NightShift](https://github.com/nightshiftjs) in t
 ## Run
 The demo can be started by running the command below.
 ```
-npm install && node src
+npm install && node src/app
 ```
 
-You should see _Hello, NightShift user_ logged in the console.
+A HTTP server will start listening on port 9000.
