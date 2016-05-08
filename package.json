@@ -1,7 +1,7 @@
 {
   "name": "nightshift-demo",
   "description": "A demo of NightShift",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "main": "src/index.js",
   "keywords": ["demo", "framework", "nightshift"],
   "repository": {
@@ -9,8 +9,9 @@
     "url": "https://github.com/nightshiftjs/nightshift-demo.git"
   },
   "dependencies": {
-    "nightshift-core": "0.2.0",
-    "nightshift-dependency-injection": "0.2.0"
+    "nightshift-bluebird": "0.1.0",
+    "nightshift-core": "0.3.0",
+    "nightshift-dependency-injection": "0.3.0"
   },
   "devDependencies": {}
 }

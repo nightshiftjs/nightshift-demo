@@ -2,7 +2,10 @@
 
 // configure NightShift
 var nightShift = require('nightshift-core');
+var bluebird = require('nightshift-bluebird');
 var di = require('nightshift-dependency-injection');
+
+nightShift.plugin(bluebird);
 nightShift.plugin(di);
 
 // configure the dependency injection
